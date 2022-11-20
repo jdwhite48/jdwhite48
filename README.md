@@ -1,4 +1,19 @@
-### Hi there 👋
+## About Me
+
+I'm a 2nd year PhD student studying applied crypto(graphy) at Purdue University.
+
+- Pronouns: he/they
+
+TODO
+
+## Socials
+- Twitter: RIP
+- Mastodon: <a rel="me" href="https://infosec.exchange/@enigcryptist">@enigcryptist@infosec.exchange</a>
+<!--
+- Google Scholar
+- LinkedIn
+-->
+TODO
 
 <!--
 **jdwhite48/jdwhite48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
