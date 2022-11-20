@@ -8,7 +8,7 @@ TODO
 
 ## Socials
 - Twitter: RIP
-- Mastodon: <a rel="me" href="https://infosec.exchange/@enigcryptist">@enigcryptist@infosec.exchange</a>
+- Mastodon: <a rel="me" href="https://infosec.exchange/@enigcryptist">@enigcryptist [at] infosec.exchange</a>
 <!--
 - Google Scholar
 - LinkedIn
